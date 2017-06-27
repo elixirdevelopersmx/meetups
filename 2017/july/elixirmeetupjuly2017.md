@@ -1,27 +1,22 @@
-# Sessions
+# Sesiones
 
-- **talk**: Intro to Elixir
-- **speaker**: ?
-- **goal**: ?
-- **twitter**: ?	
-
----
-
-- **talk**: From Ruby on Rails to Phoenix 
-- **speaker**: Iván Álvarez
-- **goal**: The porpouse of this talk is ...
+- **Título**: Introducción a Elixir.
+- **Descripción**: Taller enfocado a iniciar 
+- **Ponente**: Norberto Ortigoza.
+- **twitter**: @hiphoox
 
 ---
 
-- **talk**: Elixir macros
-- **speaker**: Agustin Ramos
-- **goal**: The porpouse of this talk is ...
+- **Título**: Elixir Macros
+- **Descripción**: 
+- **Ponente**: Agustin Ramos
+- **twitter**: @machineareus
 
 ---
 
-- **talk**: Paginando Resultados con Ecto
-- **speaker**: Misael Chamorro
-- **goal**: The porpouse of this talk is ...
-- **twitter**: ? 
+- **Título**: Paginación de Resultados y APIs con Scrivener.Ecto
+- **Descripción**: Durante ésta charla se mostrará como integrar la biblioteca [Scrivener.Ecto](https://github.com/drewolson/scrivener) en tus proyectos, amigable con Phoenix y también expone una api rest.
+- **Ponente**: Misael Pérez.
+- **twitter**: @misaelpc
 
 ---
