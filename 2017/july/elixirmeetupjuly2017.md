@@ -10,7 +10,7 @@
 - **Título**: Elixir Macros
 - **Descripción**: 
 - **Ponente**: Agustin Ramos
-- **twitter**: @machineareus
+- **twitter**: @machinesareus
 
 ---
 
