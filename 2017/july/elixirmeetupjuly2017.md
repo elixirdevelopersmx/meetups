@@ -1,7 +1,7 @@
 # Sesiones
 
 - **Título**: Introducción a Elixir.
-- **Descripción**: Taller enfocado a conocer el lenguaje elixir y sus principales características.
+- **Descripción**: Taller enfocado a conocer el lenguaje elixir y sus principales características y beneficios.
 - **Ponente**: Norberto Ortigoza.
 - **twitter**: @hiphoox
 
