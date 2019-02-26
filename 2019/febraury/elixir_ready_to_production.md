@@ -4,7 +4,7 @@
 
 #Ivanhoe
 
-- Ingeniero de Software, Tec CCM
+- Ingeniero de Software, ITESM CCM
 - Bunsan
 - @ivanhoe - > https://twitter.com/ivanhoe
 - github -> https://github.com/ivanhoe
@@ -35,8 +35,6 @@
 - Pinterest
 - Toyota
 - http://elixir-companies.com/
-
-^ Agregar imagen la URL, mencionar que puedes hacer PR
 
 
 ---
@@ -69,27 +67,33 @@
 - Perder el miedo a una tecnología emergente, al no contar con una empresa gigantesca detrás
 - Realizar pruebas de concepto
 - Convencer con hechos y evidencias a Managers
+- Capacitar a los equipos de desarrollo
 - Paciencia para afrontar la curva de aprendizaje
-- Adquirir nuevos desarrolladores
+- Costo de adquirir nuevos desarrolladores con nivel de experiencia alto
+
 
 ---
 
 ##Beneficios
 
-- Nuestros sistemas se encuentran listos para ejectuarse de manera concurrente(programación funcional?
+- Nuestros sistemas se encuentran listos para ejectuarse de manera concurrente(programación funcional)
 - Contar con una máquina virtual sumamente robusta como es la BEAM
 - Menor inversión en infraestructura
-- Desarrolladores más contentos al trabajar con una plataforma estable y llena de herramientas muy bien pensadas
-- Comunidad altamente activa con múltiples proyecto
+- Desarrolladores contentos al trabajar con una plataforma estable y con un conjunto de herramientas que mejoran sus buenas prácticas y productividad
+- Comunidad altamente activa aportando nuevas librerías 
+- Foros de discusión donde el mismo autor de librerías, libros o blog posts responden directamente -> [https://elixirforum.com/](https://elixirforum.com/)
 
 
 ---
 
-##Consultores
+##Consultores especializados
 
-- Michelada.io
-- Making Devs
-- Bunsan(entramiento y primeros pasos)
+- [Bunsan](https://bunsan.io)
+- [Michelada.io](https://michelada.io/)
+- [Making Devs](http://makingdevs.com/)
+
+
+
 
 
 ---
@@ -100,7 +104,8 @@
 
 ##Conclusión
 
-- Elixir te va ayudar a que te enfoques mucho más en tu negocio que en temas de infraestructura, deployment, escalabilidad, concurrencia.
+- Elixir demuestra con evidencias, el valor que aporta a un proyecto por su propía naturaleza para crear aplicaciones altamente disponibles, escalables y mantenibles.
+
 
 ---
 
@@ -111,5 +116,5 @@
 ##Contacto
 
 - http://bunsan.io
-- Ivn Alvarez -> ivan@bunsan.io
+- Iván Alvarez -> ivan@bunsan.io
 - Misael Pérez -> misael@bunsan.io
