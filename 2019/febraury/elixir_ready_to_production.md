@@ -25,7 +25,7 @@
 
 ---
 
-![](https://www.youtube.com/watch?v=lxYFOM3UJzo)
+![Elixir: A Mini-Documentary2018](https://www.youtube.com/watch?v=lxYFOM3UJzo)
 
 ---
 
@@ -35,7 +35,7 @@
 - Facebook
 - Pinterest
 - Toyota
-- [Muchas más](http://elixir-companies.com/)
+- [Clasificación por industria](http://elixir-companies.com/)
 
 
 ---
