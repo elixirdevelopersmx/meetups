@@ -4,10 +4,10 @@
 
 #Ivanhoe
 
-- Ingeniero de Software, ITESM CCM
-- Bunsan
-- @ivanhoe - > https://twitter.com/ivanhoe
-- github -> https://github.com/ivanhoe
+- Software Engineer, ITESM CCM
+- [Bunsan](https://bunsan.io/)
+- [@ivanhoe](https://twitter.com/ivanhoe)
+- [github](https://github.com/ivanhoe) 
 
 
 ---
@@ -18,9 +18,10 @@
 ---
 #Admins
 
-- Norberto Ortigoza(@hiphoox)
-- Agustín Ramos(@machineareus)
-- Iván Álvarez(@ivanhoe)
+- Iván Álvarez([@ivanhoe](https://twitter.com/ivanhoe))
+- Agustín Ramos([@machineareus](https://twitter.com/machineareus))
+- Norberto Ortigoza([@hiphoox](https://twitter.com/hiphoox))
+
 
 ---
 
@@ -30,11 +31,11 @@
 
 ##Global
 
-- Whatsup
+- WhatsApp
 - Facebook
 - Pinterest
 - Toyota
-- http://elixir-companies.com/
+- [Muchas más](http://elixir-companies.com/)
 
 
 ---
@@ -52,12 +53,11 @@
 
 ---
 
-##Grandes Corporativos
+##Corporativos
 
-- Resuelve tu deuda
-- Miio
-- HoneyWell
-- EBC
+- [Resuelve tu deuda](https://github.com/resuelve/nuestro-equipo)
+- [Miio](https://miio.com.mx/)
+- [EBC](https://www.ebc.mx/)
 - Dos de los PACs más grandes de México
 
 ---
@@ -65,7 +65,6 @@
 ##Retos
 
 - Perder el miedo a una tecnología emergente, al no contar con una empresa gigantesca detrás
-- Realizar pruebas de concepto
 - Convencer con hechos y evidencias a Managers
 - Capacitar a los equipos de desarrollo
 - Paciencia para afrontar la curva de aprendizaje
