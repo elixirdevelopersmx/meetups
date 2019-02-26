@@ -1,8 +1,8 @@
-#¿Elixir en producción?
+# ¿Elixir en producción?
 
 ---
 
-#Ivanhoe
+# Ivanhoe
 
 - Software Engineer, ITESM CCM
 - [Bunsan](https://bunsan.io/)
@@ -11,12 +11,12 @@
 
 
 ---
-#Elixir Mexico City Meetup
+# Elixir Mexico City Meetup
 
 ![](elixir_groups_mx.jpg)
 
 ---
-#Admins
+# Admins
 
 - Iván Álvarez([@ivanhoe](https://twitter.com/ivanhoe))
 - Agustín Ramos([@machineareus](https://twitter.com/machineareus))
@@ -29,7 +29,7 @@
 
 ---
 
-##Global
+## Global
 
 - WhatsApp
 - Facebook
@@ -40,7 +40,7 @@
 
 ---
 
-##Nuestro contexto, México
+## Nuestro contexto, México
 ---
 
 ##Startups
@@ -53,7 +53,7 @@
 
 ---
 
-##Corporativos
+## Corporativos
 
 - [Resuelve tu deuda](https://github.com/resuelve/nuestro-equipo)
 - [Miio](https://miio.com.mx/)
@@ -62,7 +62,7 @@
 
 ---
 
-##Retos
+## Retos
 
 - Perder el miedo a una tecnología emergente, al no contar con una empresa gigantesca detrás
 - Convencer con hechos y evidencias a Managers
@@ -73,7 +73,7 @@
 
 ---
 
-##Beneficios
+## Beneficios
 
 - Nuestros sistemas se encuentran listos para ejectuarse de manera concurrente(programación funcional)
 - Contar con una máquina virtual sumamente robusta como es la BEAM
@@ -85,7 +85,7 @@
 
 ---
 
-##Consultores especializados
+## Consultores especializados
 
 - [Bunsan](https://bunsan.io)
 - [Michelada.io](https://michelada.io/)
@@ -97,22 +97,22 @@
 
 ---
 
-##Demo 
+## Demo 
 
 ---
 
-##Conclusión
+## Conclusión
 
 - Elixir demuestra con evidencias, el valor que aporta a un proyecto por su propía naturaleza para crear aplicaciones altamente disponibles, escalables y mantenibles.
 
 
 ---
 
-##Q & A
+## Q & A
 
 ---
 
-##Contacto
+## Contacto
 
 - http://bunsan.io
 - Iván Alvarez -> ivan@bunsan.io
