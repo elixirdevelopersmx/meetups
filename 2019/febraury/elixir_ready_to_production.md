@@ -4,7 +4,7 @@
 
 # Ivanhoe
 
-- Software Engineer, ITESM CCM
+- Software Engineer, [ITESM CCM](https://tec.mx/es/ciudad-de-mexico)
 - [Bunsan](https://bunsan.io/)
 - [@ivanhoe](https://twitter.com/ivanhoe)
 - [github](https://github.com/ivanhoe) 
@@ -29,7 +29,7 @@
 
 ---
 
-## Global
+## Contexto Global
 
 - WhatsApp
 - Facebook
