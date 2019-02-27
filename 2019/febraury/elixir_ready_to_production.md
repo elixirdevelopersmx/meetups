@@ -25,7 +25,7 @@
 
 ---
 
-![Elixir: A Mini-Documentary2018](https://www.youtube.com/watch?v=lxYFOM3UJzo)
+![Elixir: A Mini-Documentary 2018](https://www.youtube.com/watch?v=lxYFOM3UJzo)
 
 ---
 
